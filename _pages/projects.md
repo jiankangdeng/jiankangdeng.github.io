@@ -5,7 +5,7 @@ permalink: /team/
 description: Mobile Vision Perception (MVP) Lab
 nav: true
 nav_order: 2
-display_categories: [PhDs, PDRAs, Visitors, Alumni]
+display_categories: [PhDs, PDRAs, Visitors, Administrative Staff, Alumni]
 horizontal: false
 ---
 
