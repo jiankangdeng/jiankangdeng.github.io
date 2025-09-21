@@ -75,7 +75,12 @@ ninja.data = [{
           section: "News",},{id: "news-welcome-to-face-anti-spoofing-challenge-iccv-2025",
           title: 'Welcome to Face Anti-spoofing Challenge @ ICCV 2025.',
           description: "",
-          section: "News",},{id: "projects-rolandos-alexandros-potamias",
+          section: "News",},{id: "projects-lucila-riascos-weber",
+          title: 'Lucila Riascos Weber',
+          description: "Research Support Officer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Admin_LucilaRiascosWeber/";
+            },},{id: "projects-rolandos-alexandros-potamias",
           title: 'Rolandos Alexandros Potamias',
           description: "3D Avatars (Lecturer)",
           section: "Projects",handler: () => {
