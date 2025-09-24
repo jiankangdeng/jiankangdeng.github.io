@@ -75,6 +75,9 @@ ninja.data = [{
           section: "News",},{id: "news-welcome-to-face-anti-spoofing-challenge-iccv-2025",
           title: 'Welcome to Face Anti-spoofing Challenge @ ICCV 2025.',
           description: "",
+          section: "News",},{id: "news-we-launch-embodied-arena-a-comprehensive-evaluation-platform-for-embodied-ai",
+          title: 'We launch Embodied Arena, a comprehensive evaluation platform for Embodied AI.',
+          description: "",
           section: "News",},{id: "projects-lucila-riascos-weber",
           title: 'Lucila Riascos Weber',
           description: "Research Support Officer",
@@ -82,7 +85,7 @@ ninja.data = [{
               window.location.href = "/projects/Admin_LucilaRiascosWeber/";
             },},{id: "projects-rolandos-alexandros-potamias",
           title: 'Rolandos Alexandros Potamias',
-          description: "3D Avatars (Lecturer)",
+          description: "3D Hand Modelling (Lecturer)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_RolandosAlexandrosPotamias/";
             },},{id: "projects-shuyuan-zhang",
@@ -97,12 +100,12 @@ ninja.data = [{
               window.location.href = "/projects/Alumni_XingyuRen/";
             },},{id: "projects-didi-zhu",
           title: 'Didi Zhu',
-          description: "MultiModal LLMs",
+          description: "Multimodal Reasoning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PDRA_DidiZhu/";
             },},{id: "projects-evangelos-ververas",
           title: 'Evangelos Ververas',
-          description: "3D Vision",
+          description: "3D Scene Understanding",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PDRA_EvangelosVerveras/";
             },},{id: "projects-fei-ni",
@@ -117,7 +120,7 @@ ninja.data = [{
               window.location.href = "/projects/PDRA_RonglaiZuo/";
             },},{id: "projects-zerui-chen",
           title: 'Zerui Chen',
-          description: "Robot Manipulation",
+          description: "Dexterous Manipulation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PDRA_ZeruiChen/";
             },},{id: "projects-chrysa-pratikaki",
@@ -132,17 +135,17 @@ ninja.data = [{
               window.location.href = "/projects/PhD_FrancescaBabiloni/";
             },},{id: "projects-yanzuo-lu",
           title: 'YanZuo Lu',
-          description: "Diffusion Model Acceleration",
+          description: "Video Generation and World Model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_YanzuoLu/";
             },},{id: "projects-yura-choi",
           title: 'Yura Choi',
-          description: "Video Understanding (Co-supervise）",
+          description: "Egocentric Video Understanding (Co-supervise）",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_YuraChoi/";
             },},{id: "projects-chenhan-jiang",
           title: 'Chenhan Jiang',
-          description: "3D Vision",
+          description: "3D Perception and Generation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Visitor_ChenhanJiang/";
             },},{id: "projects-pablo-ruiz-ponce",
@@ -152,7 +155,7 @@ ninja.data = [{
               window.location.href = "/projects/Visitor_PabloRuizPonce/";
             },},{id: "projects-zhuo-chen",
           title: 'Zhuo Chen',
-          description: "Visual Tactile Sensing",
+          description: "Visual Tactile Sensor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Visitor_ZhuoChen/";
             },},{
