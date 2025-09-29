@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Chrysa Pratikaki
-description: Human Motion Modelling (Co-supervise）
+description: 3D Human-Scene Interaction (Co-supervise）
 img: assets/img/team/ChrysaPratikaki.jpg
 redirect: https://www.linkedin.com/in/chrysapratikaki/
-importance: 3
+importance: 2
 category: PhDs
 ---
