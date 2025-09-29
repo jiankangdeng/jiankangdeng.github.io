@@ -131,7 +131,7 @@ ninja.data = [{
               window.location.href = "/projects/PDRA_ZeruiChen/";
             },},{id: "projects-chrysa-pratikaki",
           title: 'Chrysa Pratikaki',
-          description: "Human Motion Modelling (Co-supervise）",
+          description: "3D Human-Scene Interaction (Co-supervise）",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_ChrysaPratikaki/";
             },},{id: "projects-francesca-babiloni",
