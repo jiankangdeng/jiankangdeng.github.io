@@ -92,6 +92,11 @@ ninja.data = [{
           description: "Research Support Officer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Admin_LucilaRiascosWeber/";
+            },},{id: "projects-qingping-zheng",
+          title: 'Qingping Zheng',
+          description: "Image and Video Generation (Postdoc)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Alumni_QingpingZheng/";
             },},{id: "projects-rolandos-alexandros-potamias",
           title: 'Rolandos Alexandros Potamias',
           description: "3D Hand Modelling (Lecturer)",
