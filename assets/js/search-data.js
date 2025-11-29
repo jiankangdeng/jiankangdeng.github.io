@@ -157,11 +157,6 @@ ninja.data = [{
           description: "Egocentric Video Understanding (Co-supervise）",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_YuraChoi/";
-            },},{id: "projects-chenhan-jiang",
-          title: 'Chenhan Jiang',
-          description: "3D Perception and Generation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Visitor_ChenhanJiang/";
             },},{id: "projects-pablo-ruiz-ponce",
           title: 'Pablo Ruiz Ponce',
           description: "Human Motion Modelling",
