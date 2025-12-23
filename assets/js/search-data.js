@@ -98,24 +98,29 @@ ninja.data = [{
           description: "Research Support Officer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Admin_LucilaRiascosWeber/";
+            },},{id: "projects-francesca-babiloni",
+          title: 'Francesca Babiloni',
+          description: "3D Avatar (PhD-&gt;Research Scientist at Google）",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Alumni_FrancescaBabiloni/";
             },},{id: "projects-qingping-zheng",
           title: 'Qingping Zheng',
-          description: "Image and Video Generation (Postdoc)",
+          description: "Image and Video Generation (PhD-&gt;Postdoc at Zhejiang University)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_QingpingZheng/";
             },},{id: "projects-rolandos-alexandros-potamias",
           title: 'Rolandos Alexandros Potamias',
-          description: "3D Hand Modelling (Lecturer)",
+          description: "3D Hand Modelling (Postdoc-&gt;Assistant Professor at Imperial College)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_RolandosAlexandrosPotamias/";
             },},{id: "projects-shuyuan-zhang",
           title: 'Shuyuan Zhang',
-          description: "3D Shape Program Synthesis (MSc)",
+          description: "3D Shape Program Synthesis (MSc-&gt;PhD at CUHK)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_ShuyuanZhang/";
             },},{id: "projects-xingyu-ren",
           title: 'Xingyu Ren',
-          description: "Face Modelling and Generation (PhD)",
+          description: "Face Modelling and Generation (PhD-&gt;Founder of ExcitAI)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_XingyuRen/";
             },},{id: "projects-didi-zhu",
@@ -148,11 +153,6 @@ ninja.data = [{
           description: "3D Human-Scene Interaction (Co-supervise）",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_ChrysaPratikaki/";
-            },},{id: "projects-francesca-babiloni",
-          title: 'Francesca Babiloni',
-          description: "3D Avatar (Co-supervise）",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/PhD_FrancescaBabiloni/";
             },},{id: "projects-yanzuo-lu",
           title: 'YanZuo Lu',
           description: "Video Generation and World Model",
@@ -163,11 +163,11 @@ ninja.data = [{
           description: "Egocentric Video Understanding (Co-supervise）",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_YuraChoi/";
-            },},{id: "projects-pablo-ruiz-ponce",
-          title: 'Pablo Ruiz Ponce',
-          description: "Human Motion Modelling",
+            },},{id: "projects-seunghyun-shin",
+          title: 'Seunghyun Shin',
+          description: "Aesthetic Image/Video Enhancement",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Visitor_PabloRuizPonce/";
+              window.location.href = "/projects/Visitor_SeunghyunShin/";
             },},{id: "projects-zhuo-chen",
           title: 'Zhuo Chen',
           description: "Visual Tactile Sensor",
