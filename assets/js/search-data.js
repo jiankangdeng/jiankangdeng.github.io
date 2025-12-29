@@ -163,11 +163,21 @@ ninja.data = [{
           description: "Egocentric Video Understanding (Co-supervise）",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_YuraChoi/";
+            },},{id: "projects-haosen-yang",
+          title: 'Haosen Yang',
+          description: "Spatial Intelligence",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Visitor_HaosenYang/";
             },},{id: "projects-seunghyun-shin",
           title: 'Seunghyun Shin',
           description: "Aesthetic Image/Video Enhancement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Visitor_SeunghyunShin/";
+            },},{id: "projects-zhiyuan-wu",
+          title: 'Zhiyuan Wu',
+          description: "Robot Manipulation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Visitor_ZhiyuanWu/";
             },},{id: "projects-zhuo-chen",
           title: 'Zhuo Chen',
           description: "Visual Tactile Sensor",
