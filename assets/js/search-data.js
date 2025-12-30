@@ -173,11 +173,6 @@ ninja.data = [{
           description: "Aesthetic Image/Video Enhancement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Visitor_SeunghyunShin/";
-            },},{id: "projects-zhiyuan-wu",
-          title: 'Zhiyuan Wu',
-          description: "Robot Manipulation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Visitor_ZhiyuanWu/";
             },},{id: "projects-zhuo-chen",
           title: 'Zhuo Chen',
           description: "Visual Tactile Sensor",
