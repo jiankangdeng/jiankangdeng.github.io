@@ -93,11 +93,14 @@ ninja.data = [{
           section: "News",},{id: "news-genforce-a-transferable-force-sensing-framework-across-diverse-tactile-sensors-has-been-accepted-by-nature-communications",
           title: 'GenForce, a transferable force-sensing framework across diverse tactile sensors, has been accepted by...',
           description: "",
-          section: "News",},{id: "projects-lucila-riascos-weber",
-          title: 'Lucila Riascos Weber',
+          section: "News",},{id: "news-we-launch-onevision-encoder-a-codec-style-vision-transformer-for-universal-multimodal-intelligence",
+          title: 'We launch OneVision Encoder, a Codec-Style Vision Transformer for universal multimodal intelligence.',
+          description: "",
+          section: "News",},{id: "projects-lucy-atthis",
+          title: 'Lucy Atthis',
           description: "Research Support Officer",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Admin_LucilaRiascosWeber/";
+              window.location.href = "/projects/Admin_LucyAtthis/";
             },},{id: "projects-francesca-babiloni",
           title: 'Francesca Babiloni',
           description: "3D Avatar (PhD-&gt;Research Scientist at Google）",
@@ -105,12 +108,12 @@ ninja.data = [{
               window.location.href = "/projects/Alumni_FrancescaBabiloni/";
             },},{id: "projects-qingping-zheng",
           title: 'Qingping Zheng',
-          description: "Image and Video Generation (PhD-&gt;Postdoc at Zhejiang University)",
+          description: "Image Generation (PhD-&gt;Assist. Prof. at Xiamen University)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_QingpingZheng/";
             },},{id: "projects-rolandos-alexandros-potamias",
           title: 'Rolandos Alexandros Potamias',
-          description: "3D Hand Modelling (Postdoc-&gt;Assistant Professor at Imperial College)",
+          description: "3D Hand Modelling (Postdoc-&gt;Assist. Prof. at Imperial)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_RolandosAlexandrosPotamias/";
             },},{id: "projects-shuyuan-zhang",
