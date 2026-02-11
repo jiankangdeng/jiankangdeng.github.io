@@ -3,7 +3,7 @@ layout: page
 title: Chrysa Pratikaki
 description: 3D Human-Scene Interaction (Co-supervise）
 img: assets/img/team/ChrysaPratikaki.jpg
-redirect: https://www.linkedin.com/in/chrysapratikaki/
+redirect: https://scholar.google.com/citations?user=CaKafCMAAAAJ
 importance: 2
 category: PhDs
 ---
