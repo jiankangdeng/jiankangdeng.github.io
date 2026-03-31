@@ -4,6 +4,6 @@ title: Evangelos Ververas
 description: 3D Scene Understanding
 img: assets/img/team/EvangelosVerveras.jpg
 redirect: https://scholar.google.com/citations?user=KkAjki8AAAAJ
-importance: 4
+importance: 5
 category: PDRAs
 ---
