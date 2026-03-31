@@ -141,6 +141,11 @@ ninja.data = [{
           description: "Embodied AI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PDRA_FeiNi/";
+            },},{id: "projects-junpeng-jing",
+          title: 'Junpeng Jing',
+          description: "Stereo Matching",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PDRA_JunpengJing/";
             },},{id: "projects-ronglai-zuo",
           title: 'Ronglai Zuo',
           description: "Sign Language Translation/Generation",
@@ -166,16 +171,26 @@ ninja.data = [{
           description: "Egocentric Video Understanding (Co-supervise）",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_YuraChoi/";
+            },},{id: "projects-zhelun-shen",
+          title: 'Zhelun Shen',
+          description: "3D Vision",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PhD_ZhelunShen/";
             },},{id: "projects-haosen-yang",
           title: 'Haosen Yang',
           description: "Spatial Intelligence",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Visitor_HaosenYang/";
-            },},{id: "projects-seunghyun-shin",
-          title: 'Seunghyun Shin',
-          description: "Aesthetic Image/Video Enhancement",
+            },},{id: "projects-yu-chen",
+          title: 'Yu Chen',
+          description: "3D Vision",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Visitor_SeunghyunShin/";
+              window.location.href = "/projects/Visitor_YuChen/";
+            },},{id: "projects-yunqi-miao",
+          title: 'Yunqi Miao',
+          description: "AIGC",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Visitor_YunqiMiao/";
             },},{id: "projects-zhuo-chen",
           title: 'Zhuo Chen',
           description: "Visual Tactile Sensor",
