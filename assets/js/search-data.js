@@ -148,9 +148,14 @@ ninja.data = [{
               window.location.href = "/projects/PDRA_JunpengJing/";
             },},{id: "projects-ronglai-zuo",
           title: 'Ronglai Zuo',
-          description: "Sign Language Translation/Generation",
+          description: "Sign Language",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PDRA_RonglaiZuo/";
+            },},{id: "projects-shangchen-zhou",
+          title: 'Shangchen Zhou',
+          description: "Multimodal Generation &amp; Editing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PDRA_ShangchenZhou/";
             },},{id: "projects-zerui-chen",
           title: 'Zerui Chen',
           description: "Dexterous Manipulation",
@@ -191,6 +196,11 @@ ninja.data = [{
           description: "AIGC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Visitor_YunqiMiao/";
+            },},{id: "projects-zhiyuan-wu",
+          title: 'Zhiyuan Wu',
+          description: "Robot Manipulation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Visitor_ZhiyuanWu/";
             },},{id: "projects-zhuo-chen",
           title: 'Zhuo Chen',
           description: "Visual Tactile Sensor",
