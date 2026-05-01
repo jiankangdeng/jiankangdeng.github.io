@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://profiles.imperial.ac.uk/j.deng16/about">Assistant Professor at Imperial College London</a>
+subtitle: <a href="https://profiles.imperial.ac.uk/j.deng16/about">MVP Lab Director, Imperial College London</a>
 
 profile:
   align: right
