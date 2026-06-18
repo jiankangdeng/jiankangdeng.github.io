@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Yunqi Miao
-description: AIGC
+description: Visual Generation 
 img: assets/img/team/YunqiMiao.jpg
 redirect: https://scholar.google.co.uk/citations?user=RJakU14AAAAJ
-importance: Yunqi
-category: Visitors
+importance: 8
+category: PDRAs
 ---
