@@ -138,7 +138,7 @@ ninja.data = [{
               window.location.href = "/projects/PDRA_EvangelosVerveras/";
             },},{id: "projects-fei-ni",
           title: 'Fei Ni',
-          description: "Embodied AI",
+          description: "Embodied AI (MSCA Fellowship)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PDRA_FeiNi/";
             },},{id: "projects-junpeng-jing",
@@ -156,6 +156,11 @@ ninja.data = [{
           description: "Multimodal Generation &amp; Editing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PDRA_ShangchenZhou/";
+            },},{id: "projects-yunqi-miao",
+          title: 'Yunqi Miao',
+          description: "Visual Generation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PDRA_YunqiMiao/";
             },},{id: "projects-zerui-chen",
           title: 'Zerui Chen',
           description: "Dexterous Manipulation",
@@ -191,11 +196,6 @@ ninja.data = [{
           description: "3D Vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Visitor_YuChen/";
-            },},{id: "projects-yunqi-miao",
-          title: 'Yunqi Miao',
-          description: "AIGC",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Visitor_YunqiMiao/";
             },},{id: "projects-zhiyuan-wu",
           title: 'Zhiyuan Wu',
           description: "Robot Manipulation",
