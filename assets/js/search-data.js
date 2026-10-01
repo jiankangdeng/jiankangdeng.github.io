@@ -87,14 +87,14 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-an-nvidia-academic-grant-under-the-nvidia-academic-grant-program",
           title: 'Awarded an NVIDIA Academic Grant under the NVIDIA Academic Grant Program.',
           description: "",
-          section: "News",},{id: "news-we-release-a-comprehensive-survey-on-vision-language-action-vla-models",
-          title: 'We release a comprehensive survey on Vision-Language-Action (VLA) models.',
-          description: "",
           section: "News",},{id: "news-genforce-a-transferable-force-sensing-framework-across-diverse-tactile-sensors-has-been-accepted-by-nature-communications",
           title: 'GenForce, a transferable force-sensing framework across diverse tactile sensors, has been accepted by...',
           description: "",
           section: "News",},{id: "news-we-launch-onevision-encoder-a-codec-style-vision-transformer-for-universal-multimodal-intelligence",
           title: 'We launch OneVision Encoder, a Codec-Style Vision Transformer for universal multimodal intelligence.',
+          description: "",
+          section: "News",},{id: "news-received-the-meta-aria-gen-2-smart-glasses-to-accelerate-our-research-in-egocentric-perception-and-spatial-ai",
+          title: 'Received the Meta Aria Gen 2 smart glasses to accelerate our research in...',
           description: "",
           section: "News",},{id: "projects-lucy-atthis",
           title: 'Lucy Atthis',
@@ -118,7 +118,7 @@ ninja.data = [{
               window.location.href = "/projects/Alumni_RolandosAlexandrosPotamias/";
             },},{id: "projects-shuyuan-zhang",
           title: 'Shuyuan Zhang',
-          description: "3D Shape Program Synthesis (MSc-&gt;PhD at CUHK)",
+          description: "3D Shape Program Synthesis (MSc-&gt;PhD at UoE)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_ShuyuanZhang/";
             },},{id: "projects-xingyu-ren",
@@ -131,11 +131,6 @@ ninja.data = [{
           description: "Multimodal Reasoning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PDRA_DidiZhu/";
-            },},{id: "projects-evangelos-ververas",
-          title: 'Evangelos Ververas',
-          description: "3D Scene Understanding",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/PDRA_EvangelosVerveras/";
             },},{id: "projects-fei-ni",
           title: 'Fei Ni',
           description: "Embodied AI (MSCA Fellowship)",
@@ -156,11 +151,6 @@ ninja.data = [{
           description: "Multimodal Generation &amp; Editing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PDRA_ShangchenZhou/";
-            },},{id: "projects-yunqi-miao",
-          title: 'Yunqi Miao',
-          description: "Visual Generation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/PDRA_YunqiMiao/";
             },},{id: "projects-zerui-chen",
           title: 'Zerui Chen',
           description: "Dexterous Manipulation",
@@ -171,6 +161,11 @@ ninja.data = [{
           description: "3D Human-Scene Interaction (Co-supervise）",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_ChrysaPratikaki/";
+            },},{id: "projects-fanhu-zeng",
+          title: 'Fanhu Zeng',
+          description: "MLLM (Lee Family Scholarship)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PhD_FanhuZeng/";
             },},{id: "projects-yanzuo-lu",
           title: 'YanZuo Lu',
           description: "Video Generation and World Model",
@@ -186,6 +181,11 @@ ninja.data = [{
           description: "3D Vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_ZhelunShen/";
+            },},{id: "projects-evangelos-ververas",
+          title: 'Evangelos Ververas',
+          description: "3D Scene Understanding",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Visitor_EvangelosVerveras/";
             },},{id: "projects-haosen-yang",
           title: 'Haosen Yang',
           description: "Spatial Intelligence",
@@ -196,6 +196,11 @@ ninja.data = [{
           description: "3D Vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Visitor_YuChen/";
+            },},{id: "projects-yunqi-miao",
+          title: 'Yunqi Miao',
+          description: "Visual Generation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Visitor_YunqiMiao/";
             },},{id: "projects-zhiyuan-wu",
           title: 'Zhiyuan Wu',
           description: "Robot Manipulation",
