@@ -126,6 +126,21 @@ ninja.data = [{
           description: "Face Modelling and Generation (PhD-&gt;Founder of ExcitAI)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_XingyuRen/";
+            },},{id: "projects-meta-aria-gen2-glasses",
+          title: 'Meta Aria Gen2 Glasses',
+          description: "Egocentric Perception",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Hardwares_Glasses/";
+            },},{id: "projects-sharpa-hand",
+          title: 'Sharpa Hand',
+          description: "Dexterous Manipulation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Hardwares_Hand/";
+            },},{id: "projects-unitree-g1",
+          title: 'Unitree G1',
+          description: "Humanoid Robot",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Hardwares_Humanoid/";
             },},{id: "projects-didi-zhu",
           title: 'Didi Zhu',
           description: "Multimodal Reasoning",
@@ -166,9 +181,14 @@ ninja.data = [{
           description: "MLLM (Lee Family Scholarship)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_FanhuZeng/";
+            },},{id: "projects-piyush-arora",
+          title: 'Piyush Arora',
+          description: "MLLM",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PhD_PiyushArora/";
             },},{id: "projects-yanzuo-lu",
           title: 'YanZuo Lu',
-          description: "Video Generation and World Model",
+          description: "World Model (Intern@NVIDIA)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_YanzuoLu/";
             },},{id: "projects-yura-choi",
