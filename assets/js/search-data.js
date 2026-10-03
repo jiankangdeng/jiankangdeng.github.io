@@ -126,18 +126,23 @@ ninja.data = [{
           description: "Face Modelling and Generation (PhD-&gt;Founder of ExcitAI)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alumni_XingyuRen/";
-            },},{id: "projects-meta-aria-gen2-glasses",
-          title: 'Meta Aria Gen2 Glasses',
+            },},{id: "projects-meta-aria-gen2-glasses-x-5",
+          title: 'Meta Aria Gen2 Glasses x 5',
           description: "Egocentric Perception",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hardwares_Glasses/";
-            },},{id: "projects-sharpa-hand",
-          title: 'Sharpa Hand',
+            },},{id: "projects-h200-node-x-6",
+          title: 'H200 Node x 6',
+          description: "NVIDIA’s Hopper Architecture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Hardwares_H200/";
+            },},{id: "projects-sharpa-hand-x-2",
+          title: 'Sharpa Hand x 2',
           description: "Dexterous Manipulation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hardwares_Hand/";
-            },},{id: "projects-unitree-g1",
-          title: 'Unitree G1',
+            },},{id: "projects-unitree-g1-x-2",
+          title: 'Unitree G1 x 2',
           description: "Humanoid Robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hardwares_Humanoid/";
