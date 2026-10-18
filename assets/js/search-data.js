@@ -93,8 +93,17 @@ ninja.data = [{
           section: "News",},{id: "news-we-launch-onevision-encoder-a-codec-style-vision-transformer-for-universal-multimodal-intelligence",
           title: 'We launch OneVision Encoder, a Codec-Style Vision Transformer for universal multimodal intelligence.',
           description: "",
+          section: "News",},{id: "news-received-the-outstanding-area-chair-award-from-cvpr-2026",
+          title: 'Received the outstanding Area Chair Award from CVPR 2026!',
+          description: "",
           section: "News",},{id: "news-received-the-meta-aria-gen-2-smart-glasses-to-accelerate-our-research-in-egocentric-perception-and-spatial-ai",
           title: 'Received the Meta Aria Gen 2 smart glasses to accelerate our research in...',
+          description: "",
+          section: "News",},{id: "news-received-the-top-area-chair-award-from-neurips-2026",
+          title: 'Received the Top Area Chair Award from NeurIPS 2026!',
+          description: "",
+          section: "News",},{id: "news-received-the-luxonis-s-oak-4d-camera-to-deploy-our-stereo-vision-algorithm",
+          title: 'Received the Luxonis’s OAK 4D camera to deploy our stereo vision algorithm!',
           description: "",
           section: "News",},{id: "projects-lucy-atthis",
           title: 'Lucy Atthis',
@@ -146,6 +155,11 @@ ninja.data = [{
           description: "Humanoid Robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hardwares_Humanoid/";
+            },},{id: "projects-oak-4d-x-1",
+          title: 'OAK 4D x 1',
+          description: "Luxonis’s stereo vision camera",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Hardwares_OAK4D/";
             },},{id: "projects-didi-zhu",
           title: 'Didi Zhu',
           description: "Multimodal Reasoning",
