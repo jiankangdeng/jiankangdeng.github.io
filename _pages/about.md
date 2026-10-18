@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 ---
 
 My research focuses on three main areas: (1) **multi-modal foundation models**, with an emphasis on perceiving, understanding, and modelling complex multi-sensory signals such as visual, acoustic, and tactile data; (2) **generative modeling of the physical world**, with the goal of synthesizing scalable and reliable digital assets that reproduce real-world entities; and (3) **embodied AI and world models**, aiming to build agents capable of closed-loop spatial perception, physically grounded reasoning, and dexterous manipulation in open-world scenarios. My research is at the intersection of computer vision and real-world applications, striving to pioneer transformative technologies for social benefit. I actively serve as an Area Chair for leading conferences in computer vision and machine learning, including CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML and AAAI. I am also an Associate Editor for Transactions on Machine Learning Research, IEEE Transactions on Image Processing and Neural Networks.
