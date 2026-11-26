@@ -155,6 +155,11 @@ ninja.data = [{
           description: "Humanoid Robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hardwares_Humanoid/";
+            },},{id: "projects-neon-eye-tracking-glass-x-1",
+          title: 'Neon Eye Tracking Glass x 1',
+          description: "Eye Tracking",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Hardwares_Neon/";
             },},{id: "projects-oak-4d-x-1",
           title: 'OAK 4D x 1',
           description: "Luxonis’s stereo vision camera",
@@ -192,7 +197,7 @@ ninja.data = [{
               window.location.href = "/projects/PDRA_ZeruiChen/";
             },},{id: "projects-chrysa-pratikaki",
           title: 'Chrysa Pratikaki',
-          description: "3D Human-Scene Interaction (Co-supervise）",
+          description: "3D Human-Scene Interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_ChrysaPratikaki/";
             },},{id: "projects-fanhu-zeng",
@@ -212,7 +217,7 @@ ninja.data = [{
               window.location.href = "/projects/PhD_YanzuoLu/";
             },},{id: "projects-yura-choi",
           title: 'Yura Choi',
-          description: "Egocentric Video Understanding (Co-supervise）",
+          description: "Egocentric Vision (Intern@Google）",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PhD_YuraChoi/";
             },},{id: "projects-zhelun-shen",
@@ -230,6 +235,11 @@ ninja.data = [{
           description: "Spatial Intelligence",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Visitor_HaosenYang/";
+            },},{id: "projects-ruilin-yao",
+          title: 'Ruilin Yao',
+          description: "Multimodal Foundation Models",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Visitor_RuilinYao/";
             },},{id: "projects-yu-chen",
           title: 'Yu Chen',
           description: "3D Vision",
